@@ -46,7 +46,7 @@ javac QuizApp.java Question.java
 ```bash
 java QuizApp
 ```
-###OUTPUT
+### OUTPUT
 ![Screenshot 2025-07-09 001604](https://github.com/user-attachments/assets/f2b977e3-faed-4739-b99f-ede140136ce9)
 
 
